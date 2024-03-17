@@ -1,0 +1,42 @@
+/* Estilos para el encabezado */
+.header {
+    background-color: #2c3e50;
+    color: #fff;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra suave */
+  }
+  
+  /* Estilos para la sección de bienvenida */
+  .landing-section {
+    padding: 50px;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  /* Estilos para proyectos destacados */
+  .featured-projects {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+  }
+  
+  /* Estilos para la sección de contacto */
+  .contact-me {
+    background-color: #8e44ad;
+    color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  /* Estilos para el pie de página */
+  .footer {
+    background-color: #9b59b6;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
